@@ -1,0 +1,4 @@
+storage/attestation-ed25519.pem
+storage/documents/
+__pycache__/
+*.py[cod]
